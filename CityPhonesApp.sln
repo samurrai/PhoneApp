@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityPhonesApp", "CityPhonesApp\CityPhonesApp.csproj", "{384494FC-98F4-4FB4-AC62-54EE049955CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384494FC-98F4-4FB4-AC62-54EE049955CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384494FC-98F4-4FB4-AC62-54EE049955CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384494FC-98F4-4FB4-AC62-54EE049955CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384494FC-98F4-4FB4-AC62-54EE049955CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13DE60E1-BD2A-4281-84C0-7A042F35BBE7}
+	EndGlobalSection
+EndGlobal
